@@ -1,0 +1,16 @@
+button:hover {
+    background-color: #bbb0e6;
+    color: black;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    cursor: pointer;
+    
+}
+
+p {
+    text-align: space-between;
+;
+}
