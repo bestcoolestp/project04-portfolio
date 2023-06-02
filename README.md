@@ -1,5 +1,4 @@
 # BookStoreApp
-![Screenshot 2023-06-02 204636](https://github.com/bestcoolestp/project04-portfolio/assets/108534975/aaaa6a0c-03ec-44b7-81c6-b37ab2961296)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
